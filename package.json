@@ -1,0 +1,11 @@
+{
+  "name": "@hexlet/code",
+  "version": "0.0.1",
+  "description": "brain-games haxlet io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Atemka",
+  "license": "ISC"
+}
